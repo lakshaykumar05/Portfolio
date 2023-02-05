@@ -21,7 +21,7 @@ export const ProjectList = [
         name: 'Personal Portfolio',
         image: img3,
         technology: 'Javascript, React, HTML, CSS',
-        githubLink: 'https://github.com/lakshaykumar05/Codeforces_App'
+        githubLink: 'https://github.com/lakshaykumar05/Portfolio'
     },
     {
         name: 'Tiny Url',
