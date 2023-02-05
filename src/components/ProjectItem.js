@@ -1,6 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import {GitHub as GitHubIcon} from "@material-ui/icons";
+// import {GitHub as GitHubIcon} from "@material-ui/icons";
+import GitHubIcon from '@mui/icons-material/GitHub';
+
 
 function ProjectItem(props){
     return (
